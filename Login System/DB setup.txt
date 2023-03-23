@@ -1,0 +1,8 @@
+Database structure:
+DB. name: login
+1 table with 5 columns as follows:
+id - type: BIGINT, index: PRIMARY, auto increment: on
+user_id - type: BIGINT, more -> INDEX
+user_name - type: VARCHAR, lenght: 100, more -> INDEX
+password - type: VARCHAR, lenght: 100, more -> INDEX
+date - type: TIMESTAMP, more -> INDEX
